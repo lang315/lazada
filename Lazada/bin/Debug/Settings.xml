@@ -1,0 +1,11 @@
+<Settings>
+  <Common>
+    <CountThreads>1</CountThreads>
+    <RandomTime>1-4</RandomTime>
+    <PathFileAccount>C:\Users\Lang\Desktop\New Microsoft Excel Worksheet.xlsx</PathFileAccount>
+    <PathFileLink>C:\Users\Lang\Desktop\Lazada\New Text Document.txt</PathFileLink>
+    <PathFileSSH>C:\Users\Lang\Desktop\ssh fresh.txt</PathFileSSH>
+    <OnlyLikeProduct>true</OnlyLikeProduct>
+    <RandomAccount>1-5</RandomAccount>
+  </Common>
+</Settings>
